@@ -9,9 +9,11 @@ Realize the parking management system, and it is applied to management of vehicl
 # Result image
 * origin image
 <img src='https://github.com/Appmedia06/Parking_System/blob/master/image_folder/image_2.jpg' width=350/>
-* for display
+
+* For display
 <img src='https://github.com/Appmedia06/Parking_System/blob/master/image_folder/0.jpg' width=80/>
 <img src='https://github.com/Appmedia06/Parking_System/blob/master/image_folder/4.jpg' width=80/>
-* for train
+
+* For training
 <img src='https://github.com/Appmedia06/Parking_System/blob/master/image_folder/7.jpg' width=100/>
 <img src='https://github.com/Appmedia06/Parking_System/blob/master/image_folder/1.jpg' width=100/>
